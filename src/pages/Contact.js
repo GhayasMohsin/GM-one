@@ -7,6 +7,9 @@ const Contact = () => {
       <form>
         <label>Email:</label>
         <input type='email' />
+        <label>Password:</label>
+        <input type='password' />
+        <button>SignUp</button>
       </form>
     </React.Fragment>
   );
